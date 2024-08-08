@@ -13,9 +13,17 @@ Gained an understanding of self signing certificates as it relates to deploying 
 
 Tools Used
 
-Docker.
+Docker
 Kali
 Ubuntu 
 OpenSSL
 
-Steps
+Steps (For a detailed guide follow Grant Collins' in-depth course: https://www.youtube.com/watch?v=MshVeYlpE90&t)
+
+1. Install Docker Engine and Establish Basic Setup of Container Environment 
+2. Deploy Base Image Containers (Kali,NGINX,Ubuntu)
+3. Download packages 
+4. Establish Basic Connection with docker
+5. Connect Reverse Proxy 
+6. Establish Connection Back to C2 
+
